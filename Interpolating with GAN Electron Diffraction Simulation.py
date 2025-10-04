@@ -877,4 +877,5 @@ def main():
         print("No electrons exited the simulation domain with recorded angles to plot.")
 
 if __name__ == '__main__':
+
     main()
